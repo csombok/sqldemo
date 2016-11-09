@@ -3,3 +3,7 @@
 ################################################################################
 
 /SiteForum.SqlRepository/obj/Debug
+/SiteForum.EFRepository.Tests/obj/Debug
+/SiteForum.SqlRepository.Tests/obj/Debug
+/SiteForum/obj/Debug
+/SiteForum.EFRepository/obj/Debug
