@@ -10,3 +10,6 @@
 /.vs/SiteForum/v14/.suo
 /SiteForum.EFRepository.Tests/bin/Debug
 /SiteForum.SqlRepository.Tests/bin/Debug
+/SiteForum/bin/Debug
+/SiteForum.EFRepository/bin/Debug
+/SiteForum.SqlRepository/bin/Debug
