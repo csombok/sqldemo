@@ -49,6 +49,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Scripts\Session2.sql" />
     <Content Include="Scripts\InsertTestData.sql" />
     <Content Include="Scripts\CreateDatabase.sql" />
   </ItemGroup>
