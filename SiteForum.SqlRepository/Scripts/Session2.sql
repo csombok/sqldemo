@@ -2,19 +2,19 @@
 GO
 
 -- Drop tables
-if not exists (Select 1 from sysobjects where name = 'Comment' and [type]='U')
+if exists (Select 1 from sysobjects where name = 'Comment' and [type]='U')
 begin
 	drop table Comment
 end
 go
 
-if not exists (Select 1 from sysobjects where name = 'Post' and [type]='U')
+if exists (Select 1 from sysobjects where name = 'Post' and [type]='U')
 begin
 	drop table Post
 end
 go
 
-if not exists (Select 1 from sysobjects where name = 'Member' and [type]='U')
+if exists (Select 1 from sysobjects where name = 'Member' and [type]='U')
 begin
 	drop table Member
 end
