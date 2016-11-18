@@ -8,3 +8,5 @@
 /SiteForum/obj/Debug
 /SiteForum.EFRepository/obj/Debug
 /.vs/SiteForum/v14/.suo
+/SiteForum.EFRepository.Tests/bin/Debug
+/SiteForum.SqlRepository.Tests/bin/Debug
